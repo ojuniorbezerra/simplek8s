@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          image: ojuniorbezerra/multi-client
+          image: juniorbezerra01/multi-client
           ports:
             - containerPort: 3000
